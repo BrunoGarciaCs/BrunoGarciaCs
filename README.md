@@ -2,7 +2,7 @@ Markdown
 # Olá, eu sou o Bruno! 👋
 
 Seja bem-vindo ao meu perfil do GitHub. Sou natural de São José do Rio Preto - SP, casado, tenho 42 anos e decidi direcionar minha sólida experiência profissional 
-para o universo da tecnologia. Atualmente, sou estudante do 1º semestre de **Ciência da Computação** pela **Unigrande**.
+para o universo da tecnologia. Atualmente, sou estudante do 2º semestre de **Ciência da Computação** pela **Unigrande**.
 
 Acredito que a tecnologia se torna ainda mais poderosa quando aliada a uma boa comunicação e visão de negócios. Estou documentando toda a minha evolução acadêmica e 
 prática por aqui!
